@@ -76,8 +76,4 @@ To develop a system capable of:
 
 ---
 
-## 🚀 How to Run the Project
 
-### 🧩 Step 1 — Install Dependencies
-```bash
-pip install -r requirements.txt
